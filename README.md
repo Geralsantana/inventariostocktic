@@ -1,0 +1,2 @@
+# inventariostocktic
+INVENTARIO STOCK TIC
